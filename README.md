@@ -12,13 +12,9 @@
 <p align="center">
   Ce projet consiste à développer une application web en utilisant React et React Router pour gérer la navigation dans l'application.
   <br />
-  <a href="https://github.com/QuentinGalloisDev/P_7"><strong>Explorez la documentation »</strong></a>
+  <a href="https://github.com/QuentinGalloisDev/projet_11"><strong>Explorez la documentation »</strong></a>
   <br />
   <br />
-  <a href="https://github.com/QuentinGalloisDev/P_7/issues">Signaler un bug</a>
-  ·
-  <a href="https://github.com/QuentinGalloisDev/P_7/issues">Demander une fonctionnalité</a>
-</p>
 
 ## Table des matières
 
